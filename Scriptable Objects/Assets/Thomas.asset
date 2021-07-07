@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4467dc3f4a24b034299b34bd8b62625a, type: 3}
+  m_Name: Thomas
+  m_EditorClassIdentifier: 
+  characterName: Thomas
+  body: {fileID: 21300000, guid: b74e2cb17dc75a84999f325023496976, type: 3}
+  eyes: {fileID: 21300000, guid: 8c7aafa450843414ca0d16404482f021, type: 3}
+  mouth: {fileID: 21300000, guid: 1f0580ea69b22994aaf22b7b68f51c92, type: 3}
